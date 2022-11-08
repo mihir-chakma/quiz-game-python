@@ -1,5 +1,7 @@
 # Algorithm for a Simple python quiz game
 
+![This is an image](game.png)
+
 - 1. create one variable for counting score e.g score.
 - 2. create a variable for number of questions e.g. question_no.
 - 2. ask questions to a user (using the input() function)
